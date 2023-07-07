@@ -1,4 +1,4 @@
-# News Portal (Notícias Cidade)
+# Chale Hotel
 
 Welcome! 
 
@@ -25,5 +25,5 @@ The goal with this project is learn and practice about this functionalities belo
 
 1. Clone this repo
 ```bash
-git clone https://github.com/robernar2011/NewsPortal.git
+git clone https://github.com/robernar2011/ChaleHotel.git
 ```
